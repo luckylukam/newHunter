@@ -3,7 +3,7 @@
 // @namespace    https://github.com/luckylukam/newHunter
 // @version      1.3.0
 // @description  pure-JS hentai reader for e-hentai/exhentai/nhentai.
-// @author       you
+// @author       luckylukam
 // @match        *://e-hentai.org/*
 // @match        *://exhentai.org/*
 // @match        *://nhentai.net/*
