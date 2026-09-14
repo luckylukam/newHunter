@@ -1,6 +1,6 @@
 # nextHunter
 
-A pure-JS userscript that replaces the default reader on **e-hentai**, **exhentai**, and **nhentai** with a clean, minimal overlay reader. No external dependencies, no backend — just drop it in your userscript manager and go.
+A pure-JS userscript that replaces the default reader some sites ;) with a clean, minimal overlay reader. No external dependencies, no backend — just drop it in your userscript manager and go.
 
 ## Features
 
@@ -14,15 +14,7 @@ A pure-JS userscript that replaces the default reader on **e-hentai**, **exhenta
 - **Persistent settings** — preferences saved via `GM_setValue` / `GM_getValue`
 - **SPA navigation support** — works correctly on nhentai's SvelteKit client-side routing without requiring a page reload
 - **Keyboard shortcuts** — navigate pages, toggle modes, and adjust zoom from the keyboard
-
-## Supported Sites
-
-| Site | URL |
-|------|-----|
-| e-hentai | `e-hentai.org` |
-| exhentai | `exhentai.org` |
-| nhentai | `nhentai.net` |
-
+- 
 ## Installation
 
 1. Install a userscript manager such as [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/).
